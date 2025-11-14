@@ -13,13 +13,13 @@
 
 ## 🚀 Sobre mí
 
-Soy un estudiante de **Ingeniería Eléctrica en la UCR** apasionado por la electrónica, los sistemas digitales, la programación de microcontroladores y el análisis de señales.  
+Soy un estudiante de **Ingeniería Eléctrica en la UCR** apasionado por la electrónica, los sistemas digitales, la programación y la música.  
 Me encanta aprender cosas nuevas, experimentar en laboratorio y resolver problemas complejos usando física y matemáticas.
 
 En mi tiempo libre disfruto de:
 - 🎸 Tocar instrumentos musicales  
 - 🧲 Hacer experimentos de electrónica  
-- ☕ Programar mientras tomo mate (sí, soy de esos)
+- ⚽️ Jugar futbol
 
 ---
 
@@ -69,26 +69,20 @@ En mi tiempo libre disfruto de:
 - Visualización con GTKWave  
 
 ### 🔸 Sistemas de control
-- Implementación de controladores PI  
-- Plantas con retardo y análisis en MATLAB  
+- Implementación de controladoreS 
+- Analisis en MATLAB  
 
-### 🔸 Electrónica y electricidad
-- Análisis de señales AC  
-- Cargas trifásicas (balanceadas y desbalanceadas)  
-- Medición y modelado de impedancias  
-
+### 🔸 Electrónica
+- Diseo de PCBs  
+- Análisis y Diseño de Circuitos
+  
 ---
 
 ## 🌐 Contacto
 
-- ✉️ **Email:** *(podés agregarlo aquí si querés)*  
-- 🌍 **LinkedIn:** *(opcional, puedo agregártelo si lo mandás)*  
+- ✉️ **Email:** *dannyjgc07@gmail.com*    
 
 ---
 
 ## ❤️ Gracias por pasarte por mi perfil
-
-<p align="center">
-  <img src="https://i.imgur.com/7V7QFqV.gif" width="300" alt="Thank you">
-</p>
 
