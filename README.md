@@ -18,7 +18,7 @@ Me encanta aprender cosas nuevas, experimentar en laboratorio y resolver problem
 
 En mi tiempo libre disfruto de:
 - 🎸 Tocar instrumentos musicales  
-- 🧲 Hacer experimentos de electrónica  
+- 🧲 Investigar sobre microelectrónica  
 - ⚽️ Jugar futbol
 
 ---
