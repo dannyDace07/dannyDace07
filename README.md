@@ -69,11 +69,11 @@ En mi tiempo libre disfruto de:
 - Visualización con GTKWave  
 
 ### 🔸 Sistemas de control
-- Implementación de controladoreS 
-- Analisis en MATLAB  
+- Implementación de controladores 
+- Análisis en MATLAB  
 
 ### 🔸 Electrónica
-- Diseo de PCBs  
+- Diseño de PCBs  
 - Análisis y Diseño de Circuitos
   
 ---
