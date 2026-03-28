@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/07/99/1f/07991fee32ff3133d2865eb4fe9192c8.jpg" width="280" style="border-radius: 20px;" alt="Profile Banner"/>
 
-  <h1>Danny Jiménez</h1>
+  <h1>Danny Gutiérrez</h1>
 
   <p>
     <strong>Electrical Engineering Student · Universidad de Costa Rica</strong>
