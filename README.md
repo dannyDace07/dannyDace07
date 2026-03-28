@@ -28,7 +28,7 @@
 
 I'm an Electrical Engineering student at the **Universidad de Costa Rica** with a strong focus on **digital design**, **VLSI/IC verification**, and **embedded systems**. I enjoy working across the full hardware stack — from RTL description and simulation to FPGA implementation and microcontroller firmware.
 
-My academic and personal projects have led me to develop skills in hardware description languages, verification methodologies, RISC-V architecture, and low-level embedded programming. I'm equally passionate about the mathematical foundations of engineering and the hands-on side of electronics.
+My academic and personal projects have led me to develop skills in hardware description languages, verification methodologies, RISC-V architecture, low-level embedded programming, analog circuit design, and electromagnetic theory. I'm equally passionate about the mathematical foundations of engineering and the hands-on side of electronics.
 
 Outside the lab, you'll find me playing guitar 🎸, watching football ⚽, or reading about microelectronics and chip architecture.
 
@@ -45,7 +45,6 @@ Outside the lab, you'll find me playing guitar 🎸, watching football ⚽, or r
 <p align="center">
   <img src="https://skillicons.dev/icons?i=assembly" />
   &nbsp;
-  <!-- SystemVerilog / Verilog badge (not in skillicons) -->
   <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge&logo=v&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SystemVerilog-HDL-4e8cc2?style=for-the-badge&logo=v&logoColor=white"/>
@@ -86,12 +85,48 @@ Outside the lab, you'll find me playing guitar 🎸, watching football ⚽, or r
 
 ---
 
+### 🔬 Analog Electronics & Circuit Design
+
+| Area | Topics |
+|------|--------|
+| **Analog Electronics** | BJT & MOSFET amplifiers, op-amp circuits, frequency response, feedback systems |
+| **PCB Design** | Schematic capture, layout, signal integrity, design rule checks (DRC) |
+| **Circuit Analysis** | Nodal/mesh analysis, Thevenin/Norton equivalents, AC/DC analysis |
+| **Instrumentation** | Oscilloscope, multimeter, function generator, lab measurement techniques |
+
+---
+
+### 📡 Electromagnetic Theory
+
+- **Electrostatics & Magnetostatics** — Gauss's law, Ampere's law, Faraday's law
+- **Electromagnetic Waves** — Propagation, reflection, transmission lines
+- **Maxwell's Equations** — Differential and integral forms, boundary conditions
+- **Applied Electromagnetics** — Antenna fundamentals, waveguides, field simulations
+
+---
+
+### ⚙️ Electrical Machines
+
+- **DC Machines** — Motor and generator principles, torque-speed characteristics
+- **AC Machines** — Induction motors, synchronous machines, equivalent circuits
+- **Transformers** — Single-phase and three-phase, efficiency, regulation analysis
+- **Power Systems Fundamentals** — Per-unit system, power factor, energy conversion
+
+---
+
+### 📊 Probabilistic Models & Stochastic Signals
+
+- **Probability Theory** — Random variables, distributions, expectation, variance
+- **Stochastic Processes** — Stationary processes, autocorrelation, power spectral density
+- **Signal & Noise Analysis** — SNR, noise modeling, Gaussian noise in systems
+- **Statistical Signal Processing** — Estimation theory, hypothesis testing, filtering
+
+---
+
 ### 📐 Other Engineering Skills
 
-- **Analog & Digital Electronics** — Circuit analysis, design, and simulation
-- **Control Systems** — Controller design, Laplace/Z-transform, frequency response
+- **Control Systems** — Controller design, Laplace/Z-transform, frequency response, Bode/Nyquist
 - **Signal Processing** — Filtering, sampling, Fourier analysis, MATLAB implementation
-- **PCB Design** — Schematic capture, layout fundamentals
 
 ---
 
@@ -126,6 +161,15 @@ Outside the lab, you'll find me playing guitar 🎸, watching football ⚽, or r
 - Pipeline design: fetch, decode, execute, memory, writeback stages
 - Hazard detection and forwarding logic
 
+### 🔸 Analog Electronics & PCB Design
+- Amplifier design and frequency response analysis (BJT, MOSFET, op-amps)
+- PCB layout and schematic design with signal integrity considerations
+- Lab-based circuit prototyping and measurement
+
+### 🔸 Electrical Machines & Power
+- Analysis of DC/AC machines, transformers, and energy conversion systems
+- Three-phase systems, per-unit analysis, and power factor correction
+
 ### 🔸 STM32 Embedded Development
 - Bare-metal and HAL-based firmware in **C**
 - Peripheral drivers: timers, ADC, DMA, communication interfaces
@@ -134,7 +178,7 @@ Outside the lab, you'll find me playing guitar 🎸, watching football ⚽, or r
 ### 🔸 Control Systems & MATLAB
 - Controller synthesis (PID, lead/lag compensators)
 - Simulation and analysis in **MATLAB/Simulink**
-- Signal processing and filter design
+- Signal processing, stochastic modeling, and filter design
 
 ---
 
@@ -149,5 +193,5 @@ Outside the lab, you'll find me playing guitar 🎸, watching football ⚽, or r
 ---
 
 <p align="center">
-  <sub>⚡ Electrical Engineering · Digital Design · Embedded Systems · VLSI · RISC-V</sub>
+  <sub>⚡ Electrical Engineering · Digital Design · Embedded Systems · VLSI · Analog Electronics · Electromagnetics · RISC-V</sub>
 </p>
