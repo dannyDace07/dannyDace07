@@ -80,12 +80,17 @@ Outside the lab: guitar 🎸, football ⚽, and reading about microelectronics.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dannyDace07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyDace07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dannyDace07&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannyDace07&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dannyDace07&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dannyDace07&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dannyDace07&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dannyDace07&theme=tokyonight&utcOffset=-6" />
 </p>
 
 ---
