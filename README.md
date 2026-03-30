@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=003DA5&center=true&vCenter=true&width=500&repeat=false&lines=Danny+Gutiérrez)](https://git.io/typing-svg)
 
   <p><strong>Electrical Engineering Student · Universidad de Costa Rica</strong></p>
-  <p><em>Diseño Lógico &nbsp;|&nbsp; Sistemas Embebidos &nbsp;|&nbsp; Verificación de Hardware</em></p>
+  <p><em>Logic Design &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Hardware Verification</em></p>
   <p>
     <a href="mailto:dannyjgc07@gmail.com">
       <img src="https://img.shields.io/badge/Email-dannyjgc07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/UCR-Ingeniería%20Eléctrica-003DA5?style=flat-square&logo=university&logoColor=white"/>
+    <img src="https://img.shields.io/badge/UCR-Electrical%20Engineering-003DA5?style=flat-square&logo=university&logoColor=white"/>
     &nbsp;
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=flat-square"/>
   </p>
