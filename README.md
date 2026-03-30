@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/07/99/1f/07991fee32ff3133d2865eb4fe9192c8.jpg" width="250" style="border-radius: 20px;" alt="Profile Banner"/>
 
-  <h1>Danny Gutiérrez</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=003DA5&center=true&vCenter=true&width=500&lines=Danny+Gutiérrez+👋)](https://git.io/typing-svg)
 
   <p><strong>Electrical Engineering Student · Universidad de Costa Rica</strong></p>
-  <p><em>Digital Systems & VLSI Design &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Hardware Verification</em></p>
-
+  <p><em>Diseño Lógico &nbsp;|&nbsp; Sistemas Embebidos &nbsp;|&nbsp; Verificación de Hardware</em></p>
   <p>
     <a href="mailto:dannyjgc07@gmail.com">
       <img src="https://img.shields.io/badge/Email-dannyjgc07%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
