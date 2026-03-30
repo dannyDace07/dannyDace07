@@ -47,10 +47,10 @@ Outside the lab: guitar 🎸, football ⚽, and reading about microelectronics.
 | Area | Details |
 |------|---------|
 | **HDL Design** | Verilog, SystemVerilog, RTL, FSMs |
-| **Simulation** | Icarus Verilog, GTKWave, testbench development |
+| **Simulation** | Icarus Verilog, GTKWave |
 | **FPGA** | Nexys4 DDR (Artix-7) |
 | **IC Verification** | Functional Verification |
-| **Logic Design** | Combinational/sequential circuits, timing analysis |
+| **Logic Design** | Combinational/sequential circuits |
 
 ---
 
