@@ -26,19 +26,19 @@ Outside the lab: guitar 🎸, football ⚽, and reading about microelectronics.
 ---
 
 ## 🛠️ Technical Skills
-
 ### 💻 Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,matlab,arduino,bash,linux,assembly" />
+  <img src="https://skillicons.dev/icons?i=python,c,matlab,arduino,bash,linux,assembly,mysql" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SystemVerilog-HDL-4e8cc2?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PSpice-Simulation-FF6B00?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Synopsys-EDA%20Tools-1A73E8?style=for-the-badge"/>
 </p>
-
----
 
 ### ⚡ Digital Design & FPGA
 
