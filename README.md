@@ -19,7 +19,7 @@
 
 ## 👤 About Me
 
-Electrical Engineering student at the **Universidad de Costa Rica** focused on **digital design**, **IC verification**, and **embedded systems**. I work across the full hardware stack — from RTL description and FPGA implementation to microcontroller firmware and analog circuit design.
+Electrical Engineering student at the **University of Costa Rica** focused on **digital design**, **IC verification**, and **embedded systems**. I work across the full hardware stack — from RTL description and FPGA implementation to microcontroller firmware and analog circuit design.
 
 ## Beyond the Lab
 - 🎸 **Music** — Guitar player in my free time
