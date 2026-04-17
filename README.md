@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=4000&speed=100&color=003DA5&center=true&vCenter=true&width=500&lines=Danny+Gutiérrez)](https://git.io/typing-svg)
 
-  <p><strong>Electrical Engineering Student · Universidad de Costa Rica</strong></p>
+  <p><strong>Electrical Engineering Student · University of Costa Rica</strong></p>
   <p><em>Logic Design &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; Hardware Verification</em></p>
   <p>
     <a href="mailto:dannyjgc07@gmail.com">
